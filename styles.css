@@ -99,7 +99,7 @@ main {
      - Add a bottom border: 2px solid #f39c12
      - Add 8px of padding on the bottom only
 --------------------------------------------------------------- */
-#main-header h2 {
+h2 {
   color: #2c3e50;
   border-bottom: 2px solid #f39c12;
   padding-bottom: 8px;
